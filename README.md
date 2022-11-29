@@ -5,9 +5,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (leetcode.com)</b>
-  - [Praciting DS & Algos in Javascript and python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Praciting DS & Algos in Javascript and python](https://github.com/younisSaleh-0/Algorithms-Practice-main)
+- <b>Full Stack Web App (React, NodeJS, ExpressJS, Sass)</b>
+  - [E-Commerce App with React, Strapi, Stripe _ Shopping App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [E-Commerce App with React, Strapi, Stripe _ Shopping App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
